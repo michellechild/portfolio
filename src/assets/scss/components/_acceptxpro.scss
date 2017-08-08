@@ -1,0 +1,60 @@
+#acceptx-pro {
+
+	h2 {
+		margin-bottom: 1.5rem;
+		color: $medium-gray;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		font-size: 18px;
+	}
+
+	h4 {
+		font-weight: 300;
+	}
+
+	// li {
+	// 	@include breakpoint(large) {
+	// 	width: 49%;
+	//
+	// 	&:nth-of-type(odd) {
+	// 		margin-right: 2%;
+	// 	}
+	// }
+}
+
+
+.ap-intro {
+	margin-top: 2rem;
+
+	img {
+		float: left;
+		margin: 8px 8px 0 0;
+	}
+
+	span {
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 18px;
+		font-weight: 400;
+		letter-spacing: 2px;
+	}
+}
+
+.icon {
+  margin-top: 10px;
+}
+
+.apProcess {
+	max-width: 600px;
+	margin: 0 auto;
+	@include breakpoint (large) {
+		max-width: 1200px;
+	}
+	img{
+		width: 100%;
+		max-width: 600px;
+		display: inline-block;
+		vertical-align: top;
+		margin: 0 auto;
+	}
+
+}

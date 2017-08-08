@@ -1,0 +1,26 @@
+h1, h2, h3, h4, h5, h6, p, li, a {
+	transition: 100ms ease all;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 {
+    margin-bottom: 0.5rem;
+  }
+
+p {
+	font-family: 'Merriweather', 'Source Sans Pro', sans-serif;
+	font-weight: 300;
+}
+
+.h2-merriweather{
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: rem-calc(17);
+  @include breakpoint(medium){
+    font-size: rem-calc(19);
+  }
+}

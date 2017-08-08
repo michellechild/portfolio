@@ -1,0 +1,40 @@
+//Footer
+//Creates a Sticky Footer
+ // .content-wrapper {
+ // min-height: calc(100vh - 22rem);
+ // margin-bottom: 100px;
+ // }
+
+footer {
+	flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+  padding: 0 0 20px 0;
+
+	.logo {
+		text-align: center;
+
+		a {
+			display: inline-block;
+			margin-bottom: 1.5rem;
+		}
+	}
+
+	.menu {
+		max-width: 321px;
+		margin: 0 auto;
+
+		#email{
+			margin-top: 3px;
+		}
+
+		a svg g {
+			opacity: 0.3;
+			fill: $black;
+			transition: 200ms ease all;
+		}
+		a:hover svg g {
+			opacity: 0.9;
+
+		}
+	}
+
+}

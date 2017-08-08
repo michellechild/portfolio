@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>information</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1C91A7" offset="0%"></stop>
+            <stop stop-color="#0C586E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="2017-iterations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AP-Case-Study" transform="translate(-502.000000, -981.000000)">
+            <g id="Group-16" transform="translate(502.000000, 336.000000)">
+                <g id="Group-19" transform="translate(0.000000, 369.000000)">
+                    <g id="Group-14" transform="translate(0.000000, 276.000000)">
+                        <g id="information">
+                            <rect id="Rectangle-4" fill="#F5F5F5" x="0" y="0" width="50" height="50"></rect>
+                            <path d="M25,45 C13.954305,45 5,36.045695 5,25 C5,13.954305 13.954305,5 25,5 C36.045695,5 45,13.954305 45,25 C45,36.045695 36.045695,45 25,45 Z M27.02624,15.21376 C27.02624,14.108768 26.131232,13.21376 25.02624,13.21376 C23.922496,13.21376 23.02624,14.108768 23.02624,15.21376 C23.02624,16.317504 23.922496,17.21376 25.02624,17.21376 C26.131232,17.21376 27.02624,16.317504 27.02624,15.21376 Z M26.36,32.54624 L26.36,18.54624 L21.02624,18.54624 L21.02624,21.213728 L23.693728,21.213728 L23.693728,32.546208 L20.359968,32.546208 L20.359968,35.213696 L29.693728,35.213696 L29.693728,32.546208 L26.36,32.54624 Z" fill="url(#linearGradient-1)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
