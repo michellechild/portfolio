@@ -3,15 +3,20 @@
 html {
   height: 100%;
 }
+
 body {
   display: flex;
   flex-direction: column;
   height: 100vh; /* Avoid the IE 10-11 `min-height` bug. */
 }
+
 .content-wrapper {
   flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
-	margin-top: 3rem;
-  margin-bottom: 3rem;
+}
+
+
+.grid-container-padded {
+  margin: 3rem auto;
 }
 
 .inset {
@@ -26,6 +31,7 @@ body {
 }
 
 .bg-wrapper {
+  padding: 2rem 0;
+  @include xy-grid-container-padding;
 	background-color: $white;
-	padding: 2rem 0;
 }

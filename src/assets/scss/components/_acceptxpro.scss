@@ -1,7 +1,7 @@
-#acceptx-pro {
+#acceptxPro {
 
 	h2 {
-		margin-bottom: 1.5rem;
+		margin-bottom: 1.25rem;
 		color: $medium-gray;
 		text-transform: uppercase;
 		letter-spacing: 1px;
@@ -12,16 +12,12 @@
 		font-weight: 300;
 	}
 
-	// li {
-	// 	@include breakpoint(large) {
-	// 	width: 49%;
-	//
-	// 	&:nth-of-type(odd) {
-	// 		margin-right: 2%;
-	// 	}
-	// }
-}
+	.icon {
+	  margin-top: 5px;
+	}
 
+
+}
 
 .ap-intro {
 	margin-top: 2rem;
@@ -37,24 +33,22 @@
 		font-weight: 400;
 		letter-spacing: 2px;
 	}
-}
 
-.icon {
-  margin-top: 10px;
 }
 
 .apProcess {
 	max-width: 600px;
 	margin: 0 auto;
+
 	@include breakpoint (large) {
-		max-width: 1200px;
+		max-width: 1000px;
 	}
-	img{
+
+	img {
 		width: 100%;
 		max-width: 600px;
 		display: inline-block;
 		vertical-align: top;
 		margin: 0 auto;
-	}
-
+}
 }
