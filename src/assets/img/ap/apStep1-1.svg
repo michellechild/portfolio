@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>apStep1-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AccepTx-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apStep1-1">
+            <rect id="Bounding-Box" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="30" height="30"></rect>
+            <g>
+                <circle id="Oval" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                <path d="M11.8495976,11.9733812 L11.5714286,10.5157756 C12.0239191,10.3822539 12.5375994,10.1764109 13.1124848,9.89824046 C13.6873703,9.62007007 14.219595,9.32892276 14.7091749,9.0247898 C15.1987548,8.72065684 15.5510987,8.47216168 15.7662171,8.27929688 L16.8788931,8.55746588 L16.8788931,22.4992962 L14.3308651,22.4992962 L14.3308651,11.3836629 C13.3517053,11.6507065 12.5246244,11.8472773 11.8495976,11.9733812 Z" id="1" fill="#13966C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

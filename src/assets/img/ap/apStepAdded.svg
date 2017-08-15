@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>apStepAdded</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2017-iterations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apStepAdded">
+            <g>
+                <circle id="Oval" fill="#94DAF4" cx="15" cy="15" r="15"></circle>
+                <g id="Icon/Checkmark/Black" opacity="0.400000006" transform="translate(7.500000, 7.500000)">
+                    <rect id="Bounding-Box" x="0" y="0" width="15" height="15"></rect>
+                    <path d="M13.6493859,1.68047394 C13.4085451,1.43984202 13.0145939,1.43984202 12.7745886,1.68047394 L5.01420933,9.44168877 C4.77336854,9.68252957 4.37941733,9.68252957 4.13941206,9.44168877 L2.22772516,7.53083741 C1.98709325,7.29020549 1.59293316,7.29020549 1.35292788,7.53083741 L0.180473937,8.70412688 C-0.0601579791,8.9447588 -0.0601579791,9.33891889 0.180473937,9.57892416 L4.13941206,13.5370267 C4.38025285,13.7776587 4.77420406,13.7776587 5.01420933,13.5370267 L14.8218399,3.72772516 C15.0624718,3.48709325 15.0624718,3.09293316 14.8218399,2.85209236 L13.6493859,1.68047394 Z" id="check" fill="#000000" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

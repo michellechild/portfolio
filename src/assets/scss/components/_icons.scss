@@ -1,17 +1,50 @@
-.icon-scattered {
-	content: url("../img/scattered.svg");
+
+.icon-apExternalLink {
+  content: url("../img/ap/apExternalLink.svg");
 }
 
-.no-svg .icon-scattered {
-  content: url("../img/scattered.png");
+.no-svg .icon-apExternalLink {
+  content: url("../img/ap/apExternalLink.png");
 }
 
-.icon-infinity {
-  content: url("../img/infinity.svg");
+.icon-apForm {
+  content: url("../img/ap/apForm.svg");
 }
 
-.no-svg .icon-infinity {
-  content: url("../img/infinity.png");
+.no-svg .icon-apForm {
+  content: url("../img/ap/apForm.png");
+}
+
+.icon-apStepAdded {
+  content: url("../img/ap/apStepAdded.svg");
+}
+
+.no-svg .icon-apStepAdded {
+  content: url("../img/ap/apStepAdded.png");
+}
+
+.icon-apStep1-1 {
+  content: url("../img/ap/apStep1-1.svg");
+}
+
+.no-svg .icon-apStep1-1 {
+  content: url("../img/ap/apStep1-1.png");
+}
+
+.icon-apStep1-2 {
+  content: url("../img/ap/apStep1-2.svg");
+}
+
+.no-svg .icon-apStep1-2 {
+  content: url("../img/ap/apStep1-2.png");
+}
+
+.icon-apStep1-3 {
+  content: url("../img/ap/apStep1-3.svg");
+}
+
+.no-svg .icon-apStep1-3 {
+  content: url("../img/ap/apStep1-3.png");
 }
 
 .icon-confusion {
@@ -30,20 +63,28 @@
   content: url("../img/desktop.png");
 }
 
-.icon-target {
-  content: url("../img/target.svg");
-}
-
-.no-svg .icon-target {
-  content: url("../img/target.png");
-}
-
 .icon-flow {
   content: url("../img/flow.svg");
 }
 
 .no-svg .icon-flow {
   content: url("../img/flow.png");
+}
+
+.icon-handshake {
+  content: url("../img/handshake.svg");
+}
+
+.no-svg .icon-handshake {
+  content: url("../img/handshake.png");
+}
+
+.icon-infinity {
+  content: url("../img/infinity.svg");
+}
+
+.no-svg .icon-infinity {
+  content: url("../img/infinity.png");
 }
 
 .icon-information {
@@ -54,10 +95,18 @@
   content: url("../img/information.png");
 }
 
-.icon-handshake {
-  content: url("../img/handshake.svg");
+.icon-scattered {
+	content: url("../img/scattered.svg");
 }
 
-.no-svg .icon-handshake {
-  content: url("../img/handshake.png");
+.no-svg .icon-scattered {
+  content: url("../img/scattered.png");
+}
+
+.icon-target {
+  content: url("../img/target.svg");
+}
+
+.no-svg .icon-target {
+  content: url("../img/target.png");
 }

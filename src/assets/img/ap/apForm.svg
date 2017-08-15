@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>apForm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2017-iterations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apForm">
+            <rect id="Bounding-Box" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="30" height="30"></rect>
+            <path d="M16.5,12.5 L26.5,12.5 L26.5,29.375 C26.5,29.5583333 26.4416667,29.7083333 26.325,29.825 C26.2091667,29.9416667 26.0583333,30 25.875,30 L4.625,30 C4.44166667,30 4.29166667,29.9416667 4.175,29.825 C4.05916667,29.7083333 4,29.5583333 4,29.375 L4,0.625 C4,0.441666667 4.05916667,0.291666667 4.175,0.175 C4.29166667,0.0583333333 4.44166667,0 4.625,0 L16.5,0 L16.5,12.5 L16.5,12.5 L16.5,12.5 L16.5,12.5 Z M26.5,10 L19,10 L19,2.5 L26.5,10 L26.5,10 Z" fill-opacity="0.3" fill="#231F20"></path>
+        </g>
+    </g>
+</svg>
