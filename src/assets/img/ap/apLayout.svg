@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>apLayout</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AccepTx-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.7">
+        <g id="apLayout" stroke="#000000">
+            <path d="M29.5,10.5 L0.5,10.5 L0.5,19.5 L29.5,19.5 L29.5,10.5 Z" id="Path"></path>
+            <path d="M29.5,0.5 L0.5,0.5 L0.5,7.5 L29.5,7.5 L29.5,0.5 Z" id="Path-Copy-2"></path>
+            <path d="M16.5,29.5 L29.5,29.5 L29.5,22.5 L16.5,22.5 L16.5,29.5 Z" id="Path"></path>
+            <path d="M0.5,29.5 L13.5,29.5 L13.5,22.5 L0.5,22.5 L0.5,29.5 Z" id="Path-Copy"></path>
+        </g>
+    </g>
+</svg>

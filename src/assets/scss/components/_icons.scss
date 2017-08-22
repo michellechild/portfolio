@@ -1,4 +1,13 @@
 
+.icon-apCalendar {
+  content: url("../img/ap/apCalendar.svg");
+}
+
+.no-svg .icon-apCalendar {
+  content: url("../img/ap/apCalendar.png");
+}
+
+
 .icon-apExternalLink {
   content: url("../img/ap/apExternalLink.svg");
 }
@@ -15,6 +24,15 @@
   content: url("../img/ap/apForm.png");
 }
 
+.icon-apLayout {
+  content: url("../img/ap/apLayout.svg");
+}
+
+.no-svg .icon-apForm {
+  content: url("../img/ap/apLayout.png");
+}
+
+
 .icon-apStepAdded {
   content: url("../img/ap/apStepAdded.svg");
 }
@@ -23,28 +41,28 @@
   content: url("../img/ap/apStepAdded.png");
 }
 
-.icon-apStep1-1 {
-  content: url("../img/ap/apStep1-1.svg");
+.icon-apSteps1 {
+  content: url("../img/ap/apSteps1.svg");
 }
 
-.no-svg .icon-apStep1-1 {
-  content: url("../img/ap/apStep1-1.png");
+.no-svg .icon-apSteps1 {
+  content: url("../img/ap/apSteps1.png");
 }
 
-.icon-apStep1-2 {
-  content: url("../img/ap/apStep1-2.svg");
+.icon-apSteps2 {
+  content: url("../img/ap/apSteps2.svg");
 }
 
-.no-svg .icon-apStep1-2 {
-  content: url("../img/ap/apStep1-2.png");
+.no-svg .icon-apSteps2 {
+  content: url("../img/ap/apSteps2.png");
 }
 
-.icon-apStep1-3 {
-  content: url("../img/ap/apStep1-3.svg");
+.icon-apSteps3 {
+  content: url("../img/ap/apSteps3.svg");
 }
 
-.no-svg .icon-apStep1-3 {
-  content: url("../img/ap/apStep1-3.png");
+.no-svg .icon-apSteps3 {
+  content: url("../img/ap/apSteps3.png");
 }
 
 .icon-confusion {
