@@ -4,13 +4,6 @@
 @import 'foundation';
 @import 'motion-ui';
 
-@import 'components/global';
-@import 'components/typography';
-@import 'components/icons';
-@import 'components/index';
-@import 'components/acceptxpro';
-@import 'components/footer';
-@import 'vendors/slick';
 @import 'vendors/owlcarousel';
 
 @include foundation-global-styles;
@@ -60,3 +53,10 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+@import 'components/global';
+@import 'components/typography';
+@import 'components/icons';
+@import 'components/index';
+@import 'components/acceptxpro';
+@import 'components/footer';

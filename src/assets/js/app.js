@@ -11,6 +11,4 @@ import Foundation from 'foundation-sites';
 
 $(document).foundation();
 
-$('#owl-example').owlCarousel({
-  items: 4
-});
+$('#owl-example').owlCarousel();
