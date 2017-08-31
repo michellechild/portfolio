@@ -29,5 +29,4 @@ PATHS:
     - "node_modules/motion-ui/src"
   # Paths to JavaScript entry points for webpack to bundle modules
   entries:
-    - "bower_components/OwlCarousel/owl-carousel/owl.carousel.js"
     - "src/assets/js/app.js"
