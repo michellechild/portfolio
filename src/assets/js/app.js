@@ -1,5 +1,6 @@
 import $ from 'jquery';
 import whatInput from 'what-input';
+import slick from 'slick-carousel';
 
 window.$ = $;
 
@@ -10,7 +11,4 @@ import Foundation from 'foundation-sites';
 
 
 $(document).foundation();
-
-$('#owl-example').owlCarousel({
-  items: 4
-});
+$('.js-slick').slick();
