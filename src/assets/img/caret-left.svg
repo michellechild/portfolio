@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>caret-left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret-left">
+            <rect id="Bounding-Box" x="0" y="0" width="30" height="30"></rect>
+            <path d="M10.6447763,2.96673978 L21.5337689,13.8557324 C22.1554104,14.4773738 22.1554104,15.4107694 21.5337689,16.0342776 L10.6447763,26.9232702 C10.0231349,27.5449117 9.08973932,27.5449117 8.46623108,26.9232702 C7.84458964,26.3016288 7.84458964,25.3682332 8.46623108,24.744725 L18.2668845,14.9440716 L8.46623108,5.14341823 C7.84458964,4.52177679 7.84458964,3.58838123 8.46623108,2.96487299 C8.7779712,2.65677779 9.24468298,2.5 9.55639043,2.5 C10.0231349,2.500042 10.334889,2.65499967 10.6447763,2.96673978 Z" id="caret" fill="#3E474F" transform="translate(15.000000, 14.944751) rotate(180.000000) translate(-15.000000, -14.944751) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,39 +1,31 @@
-#acceptxPro {
+#acceptxPro .icon {
+	 margin-top: 5px;
+}
 
-	h2 {
-		margin-bottom: 1.25rem;
-		color: $medium-gray;
-		text-transform: uppercase;
-		letter-spacing: 1px;
-		font-size: 18px;
-	}
-
-	h4 {
-		font-weight: 300;
-	}
-
-	.icon {
-	  margin-top: 5px;
-	}
-
+.steps__headline {
+	margin-bottom: 1.25rem;
+	color: $medium-gray;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 18px;
 }
 
 .ap-intro {
 	margin-top: 2rem;
-
-	img {
-		float: left;
-		margin: 8px 8px 0 0;
-	}
-
-	span {
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 18px;
-		font-weight: 400;
-		letter-spacing: 2px;
-	}
-
 }
+
+.dropcap__img {
+	float: left;
+	margin: 8px 8px 0 0;
+}
+
+.dropcap__text {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
+
 
 .apProcess {
 	max-width: 600px;
@@ -60,7 +52,7 @@
 		margin: 0 auto;
 	}
 
-	li:first-of-type:not(.orbit-slide){
+	li:first-of-type {
 		margin-top: 1.5rem;
 	}
 
@@ -68,5 +60,6 @@
 		width: 100%;
 		max-width: 600px;
 		margin: 0 auto;
+		border-radius: 5px;
 	}
 }

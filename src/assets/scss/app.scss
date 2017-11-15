@@ -4,7 +4,6 @@
 @import 'foundation';
 @import 'motion-ui';
 
-@import 'vendors/owlcarousel';
 
 @include foundation-global-styles;
 // @include foundation-grid;
@@ -53,7 +52,7 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
-
+@import 'vendors/slick';
 @import 'components/global';
 @import 'components/typography';
 @import 'components/icons';
