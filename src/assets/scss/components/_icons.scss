@@ -32,6 +32,21 @@
   content: url("../img/ap/apLayout.png");
 }
 
+.icon-apRadioButton {
+  content: url("../img/ap/apRadioButton.svg");
+}
+
+.no-svg .icon-apRadioButton {
+  content: url("../img/ap/apRadioButton.png");
+}
+
+.icon-apSentence {
+  content: url("../img/ap/apSentence.svg");
+}
+
+.no-svg .icon-apSentence {
+  content: url("../img/ap/apSentence.png");
+}
 
 .icon-apStepAdded {
   content: url("../img/ap/apStepAdded.svg");
@@ -64,6 +79,15 @@
 .no-svg .icon-apSteps3 {
   content: url("../img/ap/apSteps3.png");
 }
+
+.icon-apTooltip {
+  content: url("../img/ap/apTooltip.svg");
+}
+
+.no-svg .icon-apTooltip {
+  content: url("../img/ap/apTooltip.png");
+}
+
 
 .icon-confusion {
   content: url("../img/confusion.svg");
