@@ -7,6 +7,14 @@
   content: url("../img/ap/apCalendar.png");
 }
 
+.icon-apComplete {
+  content: url("../img/ap/apComplete.svg");
+}
+
+.no-svg .icon-apComplete {
+  content: url("../img/ap/apComplete.png");
+}
+
 .icon-apCreditCard{
   content: url("../img/ap/apCreditCard.svg");
 }
