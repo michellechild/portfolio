@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="30px" height="20px" viewBox="0 0 30 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>sentence</title>
+    <title>apSentence</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.7">
-        <g id="sentence" fill="#000000">
-            <g id="Path">
-                <polygon points="26.4360329 0.0386067261 25.3550446 1.91103294 28.5689774 3.7641558 29.6499657 1.89172958"></polygon>
-                <polygon points="24.737337 2.97271791 17.3248456 15.8191833 17.5468342 19.1489362 20.5388555 17.6722443 27.9513469 4.825779"></polygon>
-                <path d="M0.617707618,17.9135209 C0.276269732,17.9135209 0,18.1897999 0,18.5312286 C0,18.8726572 0.276278998,19.1489362 0.617707618,19.1489362 L14.2072752,19.1489362 C14.5487131,19.1489362 14.8249828,18.8726572 14.8249828,18.5312286 C14.8249828,18.1897999 14.5487038,17.9135209 14.2072752,17.9135209 L0.617707618,17.9135209 Z"></path>
+    <g id="AccepTx-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apSentence">
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+            <g id="sentence" opacity="0.7" transform="translate(0.000000, 5.000000)" fill="#000000">
+                <polygon id="Path" points="26.4360329 0.0386067261 25.3550446 1.91103294 28.5689774 3.7641558 29.6499657 1.89172958"></polygon>
+                <polygon id="Path" points="24.737337 2.97271791 17.3248456 15.8191833 17.5468342 19.1489362 20.5388555 17.6722443 27.9513469 4.825779"></polygon>
+                <path d="M0.617707618,17.9135209 C0.276269732,17.9135209 0,18.1897999 0,18.5312286 C0,18.8726572 0.276278998,19.1489362 0.617707618,19.1489362 L14.2072752,19.1489362 C14.5487131,19.1489362 14.8249828,18.8726572 14.8249828,18.5312286 C14.8249828,18.1897999 14.5487038,17.9135209 14.2072752,17.9135209 L0.617707618,17.9135209 Z" id="Path"></path>
             </g>
         </g>
     </g>

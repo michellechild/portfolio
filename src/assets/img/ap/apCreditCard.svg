@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>apCreditCard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AccepTx-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="apCreditCard">
+            <rect id="Bounding-Box" x="0" y="3" width="30" height="20"></rect>
+            <path d="M0,20.6365928 C0,21.3894729 0.6296,22 1.4064,22 L28.5936,22 C29.3704,22 30,21.3894729 30,20.6365928 L30,10.1816066 L0,10.1816066 L0,20.6365928 Z M2.8124,15.1818006 L16.8752,15.1818006 L16.8752,16.5455956 L2.8124,16.5455956 L2.8124,15.1818006 Z M2.8124,17.9090028 L8.4376,17.9090028 L8.4376,19.2727978 L2.8124,19.2727978 L2.8124,17.9090028 Z M28.5936,2 L1.4064,2 C0.6296,2 0,2.61052713 0,3.36340716 L0,7.45440441 L30,7.45440441 L30,3.36340716 C30,2.61052713 29.3704,2 28.5936,2 Z" id="credit-card" fill="#282828" opacity="0.700000048"></path>
+        </g>
+    </g>
+</svg>

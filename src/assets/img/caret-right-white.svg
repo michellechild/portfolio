@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>caret-right-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="AccepTx-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret-right-white">
+            <g id="caret-right">
+                <rect id="Bounding-Box" x="0" y="0" width="30" height="30"></rect>
+                <path d="M10.6447763,2.96674046 L21.5337689,13.8557331 C22.1554104,14.4773745 22.1554104,15.4107701 21.5337689,16.0342783 L10.6447763,26.9232709 C10.0231349,27.5449124 9.08973929,27.5449124 8.46623105,26.9232709 C7.84458961,26.3016295 7.84458961,25.3682339 8.46623105,24.7447257 L18.2668845,14.9440723 L8.46623105,5.14341891 C7.84458961,4.52177747 7.84458961,3.58838191 8.46623105,2.96487367 C8.77797117,2.65677847 9.24468296,2.50000068 9.55639041,2.50000068 C10.0231349,2.50004268 10.334889,2.65500035 10.6447763,2.96674046 Z" id="caret" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
