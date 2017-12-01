@@ -8,33 +8,32 @@
 footer {
 	flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
   padding: 0 0 20px 0;
+}
 
-	.logo {
-		text-align: center;
+.logo{
+	text-align: center;
 
-		a {
-			display: inline-block;
-			margin-bottom: 1.5rem;
-		}
+	a {
+		display: inline-block;
+		margin-bottom: 1.5rem;
 	}
+}
 
-	.menu {
-		max-width: 321px;
-		margin: 0 auto;
+.nav__external {
+	max-width: 321px;
+	margin: 0 auto;
 
-		#email{
-			margin-top: 3px;
-		}
-
-		a svg g {
-			opacity: 0.3;
-			fill: $black;
-			transition: 200ms ease all;
-		}
-		a:hover svg g {
-			opacity: 0.9;
-
-		}
+	a svg g {
+		opacity: 0.3;
+		fill: $black;
+		transition: 200ms ease all;
 	}
+	a:hover svg g {
+		opacity: 0.9;
 
+	}
+}
+
+#email {
+	margin-top: 3px;
 }

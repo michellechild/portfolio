@@ -1,0 +1,56 @@
+.nav-on-scroll {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: none;
+}
+
+.nav-primary {
+  padding: 0.5rem;
+  z-index: 5;
+  background-color: get-color(primary);
+  margin-bottom: 1rem;
+
+}
+
+.nav-primary .menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-primary__link {
+  font-family: 'Anonymous Pro', sans-serif;
+  color: $white;
+  font-size: rem-calc(18);
+  transition: 300ms ease all;
+
+  &:hover {
+    font-weight: 700;
+    color: $white;
+  }
+}
+
+.nav-primary__button {
+  border-radius: 5px;
+  border: 1px solid $white;
+  transition: 300ms ease all;
+
+  img {
+    width: 12px;
+    margin-top: -1px;
+  }
+
+  &:hover {
+    background-color: rgba(255,255,255,0.75);
+    color: get-color(primary);
+    font-weight: 700;
+  }
+}
+
+.previous-arrow {
+  margin-right: 0.3em;
+}
+
+.next-arrow {
+  margin-left: 0.3em;
+}

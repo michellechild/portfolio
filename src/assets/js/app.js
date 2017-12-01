@@ -16,3 +16,12 @@ $(document).foundation();
 $('.js-slick').slick({
   dots: true
 });
+
+
+$(window).scroll(function () {
+  if ($(this).scrollTop() > 100) {
+    $('.nav-on-scroll').fadeIn('slow');
+  } else {
+    $('.nav-on-scroll').fadeOut(500);
+  }
+});

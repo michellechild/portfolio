@@ -34,3 +34,7 @@ body {
   @include xy-grid-container-padding;
 	background-color: $white;
 }
+
+.hide {
+  display: none;
+}

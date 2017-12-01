@@ -1,17 +1,24 @@
 //Index
-#portfolio {
-
-	hr {
-		margin: 1.25rem 0;
-		color: $medium-gray;
-	}
-
-	h2 a {
- 		font-weight: 400;
-	}
+#portfolio hr {
+	margin: 1.25rem 0;
+	color: $medium-gray;
 }
 
-.portfolio-links a {
+.intro__h2 {
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: rem-calc(17);
+  @include breakpoint(medium){
+    font-size: rem-calc(19);
+  }
+}
+
+.intro__link {
+	font-weight: 400;
+}
+
+a.nav-portfolio__link {
 	display: block;
 	padding-left: 0.2rem;
 

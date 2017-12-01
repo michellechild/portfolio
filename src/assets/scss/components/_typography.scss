@@ -19,16 +19,6 @@ p {
 	font-style: italic;
 }
 
-.h2-merriweather{
-  font-family: 'Merriweather', serif;
-  font-weight: 300;
-  line-height: 1.5;
-  font-size: rem-calc(17);
-  @include breakpoint(medium){
-    font-size: rem-calc(19);
-  }
-}
-
 .page__subheader {
 	font-weight: 300;
 }
