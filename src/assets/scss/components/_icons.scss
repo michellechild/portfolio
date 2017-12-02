@@ -1,3 +1,10 @@
+.icon--left {
+  margin-right: 0.5rem;
+}
+
+.icon--right {
+  margin-left: 0.5rem;
+}
 
 .icon-calendar {
   content: url("../img/icon/calendar/calendar.svg");
@@ -29,6 +36,14 @@
 
 .no-svg .icon-credit-card {
   content: url("../img/icon/credit-card/credit-card.png");
+}
+
+.icon-download {
+  content: url("../img/icon/download/download-primary.svg");
+}
+
+.no-svg .icon-download {
+  content: url("../img/icon/download/download-primary.png");
 }
 
 .icon-ap-external-link {
@@ -150,7 +165,6 @@
 .no-svg .icon-information {
   content: url("../img/icon/information/information.png");
 }
-
 
 .icon-OBFavicon{
   content: url("../img/ap/OB-favicon/OB-favicon.svg");
