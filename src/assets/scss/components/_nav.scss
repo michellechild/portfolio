@@ -7,27 +7,29 @@
 
 .nav-primary {
   padding: 0.5rem;
-  z-index: 5;
-  background-color: get-color(primary);
   margin-bottom: 1rem;
-
 }
 
 .nav-primary .menu {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
+  li:first-of-type {
+    margin-right: auto;
+  }
+  a[href="index.html"] {
+    padding-left: 0;
+  }
+
 }
 
 .nav-primary__link {
-  font-family: 'Anonymous Pro', sans-serif;
-  color: $white;
-  font-size: rem-calc(18);
-  transition: 300ms ease all;
+  font-size: rem-calc(14);
+  font-weight: 500;
+  color: $medium-gray;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  transition: 100ms ease all;
 
-  &:hover {
-    font-weight: 700;
-    color: $white;
-  }
 }
 
 .nav-primary__button {

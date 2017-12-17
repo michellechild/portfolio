@@ -11,8 +11,9 @@ h2 {
   }
 
 p {
-	font-family: 'Merriweather', 'Source Sans Pro', sans-serif;
+	font-family: 'Montserrat', Helvetica, sans-serif;
 	font-weight: 300;
+	line-height: 1.75em;
 }
 
 .italic {
@@ -21,4 +22,20 @@ p {
 
 .page__subheader {
 	font-weight: 300;
+}
+
+h3 {
+	font-family: Montserrat;
+	font-size: rem-calc(18);
+	font-weight: 400;
+}
+
+.section__headline {
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 1.25rem;
+	color: $medium-gray;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size:rem-calc(13);
+	font-weight: 500;
 }

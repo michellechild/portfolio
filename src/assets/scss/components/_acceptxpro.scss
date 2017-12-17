@@ -2,13 +2,6 @@
 	 margin-top: 5px;
 }
 
-.ap-steps__headline {
-	margin-bottom: 1.25rem;
-	color: $medium-gray;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	font-size: 18px;
-}
 
 .ap-intro {
 	margin-top: 2rem;
@@ -20,7 +13,7 @@
 }
 
 .dropcap__text {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -46,17 +39,17 @@
 
 
 .ap-steps__container {
-	max-width: 700px;
+	max-width: 650px;
 	margin: 0 auto;
 }
 
 
 .ap-steps {
-	margin: 2rem 0;
+	margin-top: 2rem;
+
 }
 
-.ap-steps__item:first-of-type {
-	margin-top: 1.5rem;
+.ap-steps__item {
 
 	&.ap-steps__item--no-dots {
 		margin-top: rem-calc(54);
@@ -65,7 +58,7 @@
 
 .ap-steps__image {
 	width: 100%;
-	max-width: 600px;
-	margin: 0 auto;
+	max-width: 500px;
+	margin: 0 auto 2rem auto;
 	border-radius: 5px;
 }

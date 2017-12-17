@@ -18,7 +18,11 @@ body {
 .inset {
 	max-width: 700px;
   display: block;
-	margin: 1rem auto 0 auto;
+	margin: 2rem auto;
+}
+
+.shrink.cell {
+  margin: 0 0.5rem;
 }
 
 .small-12.outset {
